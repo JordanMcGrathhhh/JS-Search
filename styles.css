@@ -1,0 +1,13 @@
+#search {
+  width: 50%;
+}
+
+.result {
+  width: 50%;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  background-color: black;
+  color: white;
+  list-style: none;
+}
